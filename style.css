@@ -147,13 +147,13 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #nav .selected {
-  font-weight: 600;
+  font-weight: 800;
 }
 
 #nav a {
   font-size:20px;
   font-family:"Segoe UI",Arial,sans-serif;
-  font-weight:400;
+  font-weight:600;
   margin:10px 0;
 }
 
@@ -175,7 +175,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #nav-mobile a {
-  font-size:20px;
+  font-size:30px;
   font-family:"Segoe UI",Arial,sans-serif;
   font-weight:400;
   margin:10px 0;
@@ -195,8 +195,8 @@ h1,h2,h3,h4,h5,h6 {
 #footer {
 	clear: both;
 	padding: 10px;
-	background-color: #999;
-	color: white;
+	background-color: 0f8299;
+	color: fff;
 	text-align: center;
 }
 
